@@ -1,0 +1,30 @@
+h1{font-family: 'Raleway', sans-serif;
+   font-size:60px;
+   padding-left:20px;
+   padding-top:20px;
+}
+body{
+    background-color:black;
+}
+.cartão{
+    background-image:url(Imgs/backgorund.png);
+    background-size:cover;
+    width:800px;
+    height:400px;
+    margin:auto;
+    margin-top:150px;   
+}
+a{
+    text-decoration:none;
+    color:black;
+    font-size:38px;
+}
+.Instagram{
+    list-style-image:url(Imgs/Insta.png);
+    margin-left:20px;
+}
+.Twitter{
+    list-style-image:url(Imgs/Twitter.png); 
+    margin-left:20px;
+
+}
